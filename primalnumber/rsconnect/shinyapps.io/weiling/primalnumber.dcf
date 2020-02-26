@@ -1,0 +1,12 @@
+name: primalnumber
+title: primalnumber
+username:
+account: weiling
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1866994
+bundleId: 2831765
+url: https://weiling.shinyapps.io/primalnumber/
+when: 1582733384.17131
+asMultiple: FALSE
+asStatic: FALSE
